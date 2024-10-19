@@ -1,4 +1,4 @@
-# Abishek's Music Player - VisionOS Inspired (Android)
+# Vision Music - VisionOS Inspired Music Player (Android and Web)
 
 This project is a React-based music player application for Android, designed to provide a sleek and intuitive user interface reminiscent of VisionOS from Apple Vision Pro. It allows you to seamlessly manage your music library, play tracks, and enjoy a smooth listening experience.
 
